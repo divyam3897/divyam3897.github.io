@@ -23,14 +23,13 @@ description: Turning imagination into reality
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Blog: "blog"
+  Publications: "publications" 
   Projects:
+    - Adaptive Computation Time: "https://github.com/for-ai/ACT"
     - GSoC'17: "https://summerofcode.withgoogle.com/projects/#5877039098757120"
     - Season of KDE: "https://github.com/gcompris/GCompris-qt/commit/43ef8edeaa8a72994e861aefaabe22c56d790677"
-    - Customer Analyzer: "https://github.com/divyam3897/customersAnalyzer"
-    - Generative Adversarial networks: "https://github.com/divyam3897/gans"
-    - Adversarial examples: "https://github.com/divyam3897/adversarial-examples"
-  Resume / CV: "https://goo.gl/svxpku"
+  Resume / CV: "dmadaan_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -45,8 +44,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: DM
-  email: "divyam3897@gmail.com"
+  name: Divyam Madaan
+  email: "dmadaan[at]kaist.ac.kr"
   facebook: divyam.madaan.1  # eg. daattali
   github: divyam3897    # eg. daattali
   twitter: divyam3897   # eg. daattali
@@ -98,6 +97,10 @@ share-links-active:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num"
 excerpt_length: 50
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
