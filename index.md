@@ -9,12 +9,12 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
- Hi again, my name is <strong>Divyam Madaan</strong>, I am a Master's student at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
+ Hi, my name is <strong>Divyam Madaan</strong>, I am a Master's student at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
  in Korea Advanced Institute of Science and Technology (KAIST), under the supervison of <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
  </p>
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in Information Technology from <a target="_blank" href="http://puchd.ac.in/">Panjab&nbsp;University</a>, Chandigarh, India.
+I finished my B.E. degree at <a target="_blank" href="http://puchd.ac.in/">Panjab&nbsp;University</a>, India in 2019.
 </p>
 
 <p class="about-text">
