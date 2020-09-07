@@ -29,9 +29,10 @@ confidence and generalizability of existing models while making them compact to 
 
 ## Academic Service
 - Conference reviewer
-  - ICML 2020
-  - ACML 2020
+  - AAAI 2021
   - NeurIPS 2020
+  - ACML 2020
+  - ICML 2020
 - Volunteer
   - ICLR 2020
   - ICML 2020
