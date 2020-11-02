@@ -17,6 +17,8 @@ confidence and generalizability of existing models while making them compact to 
 </div>
 
 ## News
+- [30/10/20] Our paper [Learning to Generate Noise for Robustness against Multiple Perturbations](https://arxiv.org/pdf/2006.12135.pdf) got accepted at [NeurIPS Meta-Learning Workshop 2020](https://meta-learn.github.io/2020/).
+- [15/09/20] I received an [ICML 2019](https://icml.cc/Conferences/2020/Reviewers) Outstanding Reviewer Award (top 33% of reviewers). 
 - [01/06/20] Our paper [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355.pdf) got accepted at [ICML 2020](https://icml.cc/). Code is available on [GitHub](https://github.com/divyam3897/ANP_VS).
 - [09/11/20] Our paper [Adversarial Neural Pruning](https://drive.google.com/file/d/0B3mY6u_lryzdWVpLckNsZF9jdDFidkY3Yk9zWU9vNDR4RXdB/view) got accepted at [Neurips Safety and Robustness in Decision Making Workshop, 2019](https://sites.google.com/view/neurips19-safe-robust-workshop).
 - [09/09/19] We upoloaded our paper [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678v5) on arXiv. We also published our [blog post](https://for.ai/blog/targeted-dropout/) and code is available on [GitHub](https://github.com/for-ai/Targeted-Dropout).
@@ -33,6 +35,8 @@ confidence and generalizability of existing models while making them compact to 
   - NeurIPS 2020
   - ACML 2020
   - ICML 2020
+- Workshop reviewer
+  - NeurIPS MetaLearning workshop 2020
 - Volunteer
   - ICLR 2020
   - ICML 2020
