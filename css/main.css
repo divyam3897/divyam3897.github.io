@@ -30,7 +30,7 @@ a:focus {
   color: #0085a1;
 }
 blockquote {
-  color: #808080;
+  color: #34495e;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -331,6 +331,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+  color: #34495e;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -339,7 +340,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #34495e;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -371,6 +372,7 @@ footer .theme-by {
 }
 .post-preview .post-read-more {
   font-weight: 800;
+  color: #34495e;
 }
 
 @media only screen and (min-width: 768px) {
