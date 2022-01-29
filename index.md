@@ -8,8 +8,8 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 <div id="aboutme-section">
 
 <p class="about-text">
-Hi, I am a Master's student at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
-in Korea Advanced Institute of Science and Technology (KAIST), under the supervison of <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
+Hi, I am a first year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Prof. Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Prof. Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
+in Korea Advanced Institute of Science and Technology (KAIST), where I was advised by <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
 My research interests include adversarial robustness, network compression, ensemble learning, and meta-learning. I am particularly interested in understanding the 
 susceptibility of existing models to natural and synthetic distribution shifts. My current research focuses on developing algorithmic methods to enhance the 
 confidence and generalizability of existing models while making them compact to deploy them in real-world safety-critical applications.
@@ -17,6 +17,10 @@ confidence and generalizability of existing models while making them compact to 
 </div>
 
 ## News
+- [29/01/22] Our paper [Rethinking the Representational Continuity: Towards Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) got accepted for Oral presentation at [ICLR 2022](https://iclr.cc/).
+- [21/01/22] Our papers [Rethinking the Representational Continuity: Towards Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) and [Online Coreset Selection for Rehearsal-based Continual Learning](https://openreview.net/forum?id=f9D-5WNG4Nv) got accepted at [ICLR 2022](https://iclr.cc/).
+- [2/09/21] I started my Ph.D. at [Courant Institute of Mathematical Sciences, NYU](https://cims.nyu.edu/dynamic/) under the supervision of [Sumit Chopra](https://www.spchopra.org) and [Kyunghyun Cho](https://kyunghyuncho.me).
+- [26/08/21] I completed my M.S. in Computer Science at [KAIST](https://www.kaist.ac.kr/kr/) under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 - [08/05/21] Our paper [Learning to Generate Noise for Multi-Attack Robustness](https://arxiv.org/pdf/2006.12135.pdf) got accepted at [ICML 2021](https://icml.cc/).
 - [30/10/20] Our paper [Learning to Generate Noise for Multi-Attack Robustness](https://arxiv.org/pdf/2006.12135.pdf) got accepted at [NeurIPS Meta-Learning Workshop 2020](https://meta-learn.github.io/2020/).
 - [15/09/20] I received an [ICML 2019](https://icml.cc/Conferences/2020/Reviewers) Outstanding Reviewer Award (top 33% of reviewers). 
@@ -32,13 +36,14 @@ confidence and generalizability of existing models while making them compact to 
 
 ## Academic Service
 - Conference reviewer
+  - ICML (2020 - Top 33%, 2021, 2022)
+  - ICLR 2022
   - NeurIPS (2020, 2021)
-  - ICML (2020 - Top 33%, 2021)
   - AAAI 2021
   - ACML 2020
 - Workshop reviewer
   - NeurIPS MetaLearning workshop 2020
 - Volunteer
   - ICLR 2020
-  - ICML 2020
+  - ICML (2020, 2021)
   - NeurIPS 2020
