@@ -11,7 +11,7 @@ International Conference on Learning Representations (ICLR) 2022 (Oral presentat
 
 <a src="https://arxiv.org/abs/2106.01085"><u>Online Coreset Selection for Rehearsal-based Continual Learning.</u></a><br>
 <i>Jaehong Yoon, <b>Divyam Madaan</b>, Eunho Yang, Sung Ju Hwang. </i> <br>
-International Conference on Learning Representations (ICLR) 2022 span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
+International Conference on Learning Representations (ICLR) 2022 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
 
 
 <a href="https://arxiv.org/abs/2006.12135"><u>Learning to Generate Noise for Multi-Attack Robustnesss</u></a><br>
