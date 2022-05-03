@@ -17,7 +17,9 @@ confidence and generalizability of existing models while making them compact to 
 </div>
 
 ## News
-- [29/01/22] Our paper [Rethinking the Representational Continuity: Towards Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) got accepted for Oral presentation at [ICLR 2022](https://iclr.cc/).
+- [14/04/22] Gave an invited talk at ContinualAI Seminars on [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW).
+- [21/03/22] I will intern at [Learning and Perception Research Team at NVIDIA](http://research.nvidia.com) this Summer.
+- [29/01/22] Our paper [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) got accepted for Oral presentation at [ICLR 2022](https://iclr.cc/).
 - [21/01/22] Our papers [Rethinking the Representational Continuity: Towards Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) and [Online Coreset Selection for Rehearsal-based Continual Learning](https://openreview.net/forum?id=f9D-5WNG4Nv) got accepted at [ICLR 2022](https://iclr.cc/).
 - [2/09/21] I started my Ph.D. at [Courant Institute of Mathematical Sciences, NYU](https://cims.nyu.edu/dynamic/) under the supervision of [Sumit Chopra](https://www.spchopra.org) and [Kyunghyun Cho](https://kyunghyuncho.me).
 - [26/08/21] I completed my M.S. in Computer Science at [KAIST](https://www.kaist.ac.kr/kr/) under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
@@ -36,14 +38,14 @@ confidence and generalizability of existing models while making them compact to 
 
 ## Academic Service
 - Conference reviewer
+  - NeurIPS (2020, 2021, 2022)
   - ICML (2020 - Top 33%, 2021, 2022)
   - ICLR 2022
-  - NeurIPS (2020, 2021)
   - AAAI 2021
   - ACML 2020
 - Workshop reviewer
   - NeurIPS MetaLearning workshop 2020
 - Volunteer
-  - ICLR 2020
+  - ICLR (2020, 2022)
   - ICML (2020, 2021)
   - NeurIPS 2020
