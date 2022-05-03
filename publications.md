@@ -5,13 +5,19 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=DNk4dZkAAAAJ&hl=en). 
 
-<a src="https://arxiv.org/abs/2110.06976"><u>Rethinking the Representational Continuity: Towards Unsupervised Continual Learning.</u></a><br>
+<a src="https://arxiv.org/abs/2110.06976"><u>Representational Continuity for Unsupervised Continual Learning.</u></a><br>
 <i><b>Divyam Madaan</b>, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang. </i> <br>
 International Conference on Learning Representations (ICLR) 2022 (Oral presentation) <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=9Hrka5PA7LW" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/divyam3897/UCL" target="_blank" rel="noopener">Code</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://iclr.cc/virtual/2022/oral/7120" target="_blank" rel="noopener">Video</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://docs.google.com/presentation/d/1PR6627CBK7C6JauEPJK80H3WSb5ecaBaT6QJZJxFLuY/edit?usp=sharing" target="_blank" rel="noopener">Slides</a>
 
 <a src="https://arxiv.org/abs/2106.01085"><u>Online Coreset Selection for Rehearsal-based Continual Learning.</u></a><br>
 <i>Jaehong Yoon, <b>Divyam Madaan</b>, Eunho Yang, Sung Ju Hwang. </i> <br>
 International Conference on Learning Representations (ICLR) 2022 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=f9D-5WNG4Nv" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://iclr.cc/virtual/2022/poster/6362" target="_blank" rel="noopener">Video</a>
 
 
 <a href="https://arxiv.org/abs/2006.12135"><u>Learning to Generate Noise for Multi-Attack Robustnesss</u></a><br>
