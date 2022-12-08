@@ -8,7 +8,7 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 <div id="aboutme-section">
 
 <p class="about-text">
-Hi, I am a first year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Prof. Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Prof. Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
+Hi, I am a second year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Prof. Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Prof. Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
 in Korea Advanced Institute of Science and Technology (KAIST), where I was advised by <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
 My research interests include adversarial robustness, network compression, ensemble learning, and meta-learning. I am particularly interested in understanding the 
 susceptibility of existing models to natural and synthetic distribution shifts. My current research focuses on developing algorithmic methods to enhance the 
@@ -16,7 +16,8 @@ confidence and generalizability of existing models while making them compact to 
 </p>
 </div>
 
-## News
+## News 
+- [15/09/20] I received an [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee) Top Reviewer Award (top 0.1% of reviewers). 
 - [14/04/22] Gave an invited talk at ContinualAI Seminars on [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW).
 - [21/03/22] I will intern at [Learning and Perception Research Team at NVIDIA](http://research.nvidia.com) this Summer.
 - [29/01/22] Our paper [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/forum?id=9Hrka5PA7LW) got accepted for Oral presentation at [ICLR 2022](https://iclr.cc/).
@@ -38,9 +39,9 @@ confidence and generalizability of existing models while making them compact to 
 
 ## Academic Service
 - Conference reviewer
-  - NeurIPS (2020, 2021, 2022)
+  - NeurIPS (2020, 2021, 2022 - Top 0.1%)
   - ICML (2020 - Top 33%, 2021, 2022)
-  - ICLR 2022
+  - ICLR (2022, 2023)
   - AAAI 2021
   - ACML 2020
 - Workshop reviewer
@@ -48,4 +49,4 @@ confidence and generalizability of existing models while making them compact to 
 - Volunteer
   - ICLR (2020, 2022)
   - ICML (2020, 2021)
-  - NeurIPS 2020
+  - NeurIPS (2020, 2022)

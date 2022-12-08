@@ -45,10 +45,21 @@ IEEE Global Conference on Signal and Information Processing (GlobalSIP) 2019<spa
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/divyam3897/VayuAnukulani/" target="_blank" rel="noopener">Code</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://sigport.org/sites/default/files/docs/VayuAnukulani_globalSip.pdf" target="_blank" rel="noopener">Slides</a>
 
+<a src="https://openreview.net/forum?id=f7VHa2mwDEq"><u>Heterogeneous Continual Learning</u></a><br>
+<i><b>Divyam Madaan</b>, Hongxu Yin, Wonmin Byeon, Jan Kautz, Pavlo Molchanov</i><br>
+Preprint 2022 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/forum?id=f7VHa2mwDEq" target="_blank" rel="noopener">PDF</a>
+
+<a src="https://arxiv.org/abs/2208.12852"><u>What Do NLP Researchers Believe? Results of the NLP Community Metasurvey</u></a><br>
+<i>Julian Michael, Ari Holtzman, Alicia Parrish, Aaron Mueller, Alex Wang, Angelica Chen, <b>Divyam Madaan</b>, Nikita Nangia, Richard Yuanzhe Pang, Jason Phang, Samuel R Bowman</i><br>
+Preprint 2022 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2208.12852" target="_blank" rel="noopener">PDF</a>
+
 <a src="https://arxiv.org/abs/1905.13678"><u>Learning sparse networks using targeted dropout</u></a><br>
-Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, <b>Divyam Madaan</b>, Kevin Swersky, Yarin Gal, and Geoffrey E.Hinton<br>
+<i>Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, <b>Divyam Madaan</b>, Kevin Swersky, Yarin Gal, and Geoffrey E.Hinton</i><br>
 Preprint 2019 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1905.13678.pdf" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/for-ai/TD" target="_blank" rel="noopener">Code</a>
+
 
 
