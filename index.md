@@ -27,7 +27,7 @@ confidence and generalizability of existing models while making them compact to 
 - [2/09/21] I started my Ph.D. at [Courant Institute of Mathematical Sciences, NYU](https://cims.nyu.edu/dynamic/) under the supervision of [Sumit Chopra](https://www.spchopra.org) and [Kyunghyun Cho](https://kyunghyuncho.me).
 - [26/08/21] I completed my M.S. in Computer Science at [KAIST](https://www.kaist.ac.kr/kr/) under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 - [08/05/21] Our paper [Learning to Generate Noise for Multi-Attack Robustness](https://arxiv.org/pdf/2006.12135.pdf) got accepted at [ICML 2021](https://icml.cc/).
-    <details><summary>View more</summary>
+<details><summary>View more</summary>
     - [30/10/20] Our paper [Learning to Generate Noise for Multi-Attack Robustness](https://arxiv.org/pdf/2006.12135.pdf) got accepted at [NeurIPS Meta-Learning Workshop 2020](https://meta-learn.github.io/2020/).
     - [15/09/20] I received an [ICML 2019](https://icml.cc/Conferences/2020/Reviewers) Outstanding Reviewer Award (top 33% of reviewers). 
     - [01/06/20] Our paper [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355.pdf) got accepted at [ICML 2020](https://icml.cc/Conferences/2020). Code is available on [GitHub](https://github.com/divyam3897/ANP_VS).
