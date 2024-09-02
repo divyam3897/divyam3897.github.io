@@ -8,7 +8,7 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 <div id="aboutme-section">
 
 <p class="about-text">
-Hi, I am a second year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Prof. Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Prof. Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
+Hi, I am a fourth year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Prof. Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Prof. Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
 in Korea Advanced Institute of Science and Technology (KAIST), where I was advised by <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
 My research interests include adversarial robustness, network compression, ensemble learning, and meta-learning. I am particularly interested in understanding the 
 susceptibility of existing models to natural and synthetic distribution shifts. My current research focuses on developing algorithmic methods to enhance the 
