@@ -14,7 +14,7 @@ My research has two primary objectives: (a) develop methods that can harness inf
 </p>
 </div>
 
-## Publications
+### Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=DNk4dZkAAAAJ&hl=en). 
 
@@ -96,7 +96,7 @@ Preprint 2019 <span style="display: inline-block; width:100px; line-height: 25px
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/for-ai/TD" target="_blank" rel="noopener">Code</a>
 
 
-## Academic Service
+### Academic Service
 - Conference reviewer
   - NeurIPS (2020 -- 2024)
   - ICML (2020 -- 2024)
