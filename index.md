@@ -8,7 +8,7 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 <div id="aboutme-section">
 
 <p class="about-text">
-Hi, I am a fourth year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
+Hi, I am a fifth year Ph.D. student at <a target="_blank" href="https://cims.nyu.edu/dynamic/"> New York University, Courant Institute of Mathematical Sciences</a>, under the supervision of <a target="_blank" href="https://www.spchopra.org"> Sumit Chopra </a> and <a target="_blank" href="https://kyunghyuncho.me"> Kyunghyun Cho</a>. Previously, I completed my Masters at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
 in Korea Advanced Institute of Science and Technology (KAIST), where I was advised by <a target="_blank" href="http://www.sungjuhwang.com/"> Sung Ju Hwang</a>.
 My research has two primary objectives: (a) develop methods that can harness information from multiple modalities, and (b) improve the model's ability to perform consistently in future time periods.
 </p>
@@ -16,17 +16,30 @@ My research has two primary objectives: (a) develop methods that can harness inf
 
 ### Publications
 
+<a href="https://www.arxiv.org/pdf/2509.23487"><u>Temporal Generalization: A Reality Check</u></a><br>
+<i><b>Divyam Madaan</b>, Sumit Chopra, Kyunghyun Cho/i><br>
+Preprint 2025 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.arxiv.org/pdf/2509.23487" target="_blank" rel="noopener">PDF</a>
 
-<a href="https://arxiv.org/abs/2405.17613"><u>Jointly Modeling Inter- & Intra-Modality Dependencies for Multi-modal Learning</u></a><br>
+
+<a href="https://arxiv.org/pdf/2509.23499"><u>Multi-modal Data Spectrum: Multi-modal Datasets are Multi-dimensional</u></a><br>
+<i><b>Divyam Madaan</b>, Varshan Muhunthan, Kyunghyun Cho, Sumit Chopra/i><br>
+Preprint 2025 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2509.23499" target="_blank" rel="noopener">PDF</a>
+
+
+
+<a href="https://openreview.net/forum?id=XAKALzI3Gw"><u>Jointly Modeling Inter- & Intra-Modality Dependencies for Multi-modal Learning</u></a><br>
 <i><b> Divyam Madaan </b>, Taro Makino, Sumit Chopra, Kyunghyun Cho </i><br>
 Neural Information Processing Systems (NeurIPS) 2024 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2405.17613" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://openreview.net/pdf?id=XAKALzI3Gw" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/divyam3897/multimodal_learning" target="_blank" rel="noopener">Code</a>
 
 
-<a href="https://arxiv.org/abs/2405.17613"><u>HIST-AID: Leveraging Historical Patient Reports for Enhanced Automatic Diagnosis</u></a><br>
+<a href="https://proceedings.mlr.press/v259/huang25a.html"><u>HIST-AID: Leveraging Historical Patient Reports for Enhanced Automatic Diagnosis</u></a><br>
 <i>Haoxu Huang, Cem M. Deniz, Kyunghyun Cho, Sumit Chopra, <b> Divyam Madaan </b></i><br>
 Machine Learning for Health (ML4H) 2024 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#3eb810; font-size: 55%;border-radius: 8px; text-align:center;"><b>CONFERENCE</b></span><br>
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2411.10684" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/NoTody/HIST-AID/" target="_blank" rel="noopener">Code</a>
 
 
@@ -105,9 +118,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ### Academic Service
 - Conference reviewer
-  - NeurIPS (2020 -- 2024)
-  - ICML (2020 -- 2024)
-  - ICLR (2022 -- 2025)
+  - NeurIPS (2020 -- 2025)
+  - ICML (2020 -- 2025)
+  - ICLR (2022 -- 2026)
   - AAAI 2021
   - ACML 2020
 - Workshop reviewer
