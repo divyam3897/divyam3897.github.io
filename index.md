@@ -17,13 +17,13 @@ My research has two primary objectives: (a) develop methods that can harness inf
 ### Publications
 
 <a href="https://www.arxiv.org/pdf/2509.23487"><u>Temporal Generalization: A Reality Check</u></a><br>
-<i><b>Divyam Madaan</b>, Sumit Chopra, Kyunghyun Cho/i><br>
+<i><b>Divyam Madaan</b>, Sumit Chopra, Kyunghyun Cho </i><br>
 Preprint 2025 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://www.arxiv.org/pdf/2509.23487" target="_blank" rel="noopener">PDF</a>
 
 
 <a href="https://arxiv.org/pdf/2509.23499"><u>Multi-modal Data Spectrum: Multi-modal Datasets are Multi-dimensional</u></a><br>
-<i><b>Divyam Madaan</b>, Varshan Muhunthan, Kyunghyun Cho, Sumit Chopra/i><br>
+<i><b>Divyam Madaan</b>, Varshan Muhunthan, Kyunghyun Cho, Sumit Chopra </i><br>
 Preprint 2025 <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri; background-color:#e77334; font-size: 55%;border-radius: 8px; text-align:center;"><b>PREPRINT</b></span><br>
 <a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/2509.23499" target="_blank" rel="noopener">PDF</a>
 
