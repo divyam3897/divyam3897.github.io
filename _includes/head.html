@@ -5,51 +5,54 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+  <link rel="shortcut icon" href="/img/avatar.png">
+
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
 
   {% if layout.common-ext-css %}
-    {% for css in layout.common-ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
+  {% for css in layout.common-ext-css %}
+  <link rel="stylesheet" href="{{ css }}" />
+  {% endfor %}
   {% endif %}
 
   {% if layout.common-css %}
-    {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
+  {% for css in layout.common-css %}
+  <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+  {% endfor %}
   {% endif %}
 
   {% if layout.common-googlefonts %}
-    {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
+  {% for font in layout.common-googlefonts %}
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+  {% endfor %}
   {% endif %}
 
   {% if page.ext-css %}
-    {% for css in page.ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
+  {% for css in page.ext-css %}
+  <link rel="stylesheet" href="{{ css }}" />
+  {% endfor %}
   {% endif %}
 
   {% if page.css %}
-    {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
+  {% for css in page.css %}
+  <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+  {% endfor %}
   {% endif %}
 
   {% if page.googlefonts %}
-    {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
+  {% for font in page.googlefonts %}
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+  {% endfor %}
   {% endif %}
 
-    <!-- Facebook OpenGraph tags -->
+  <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
   {% endif %}
@@ -62,7 +65,7 @@
   <meta property="og:title" content="{{ site.title }}" />
   {% endif %}
 
-   {% if page.meta-description %}
+  {% if page.meta-description %}
   <meta property="og:description" content="{{ page.meta-description }}">
   {% elsif page.subtitle %}
   <meta property="og:description" content="{{ page.subtitle }}">
@@ -86,7 +89,7 @@
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
-  
+
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
@@ -114,5 +117,13 @@
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description"
+    content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}/img/avatar.png">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:card" content="summary_large_image">
 
 </head>

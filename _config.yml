@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://divyam3897.github.io"
+url: "https://divyam3897.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: Divyam Madaan
 
 # Short description of your site
-description: Turning imagination into reality
+description: Ph.D. student at NYU Courant • Multi-modal Learning • Temporal Generalization
 
 # --- Navigation bar options --- #
 
@@ -29,7 +29,7 @@ navbar-links:
   #   - Adaptive Computation Time: "https://github.com/for-ai/ACT"
   #   - GSoC'17: "https://summerofcode.withgoogle.com/projects/#5877039098757120"
   #   - Season of KDE: "https://github.com/gcompris/GCompris-qt/commit/43ef8edeaa8a72994e861aefaabe22c56d790677"
-  Resume / CV: "dmadaan_CV.pdf"
+  CV: "dmadaan_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -46,25 +46,16 @@ avatar: "/img/avatar.png"
 author:
   name: Divyam Madaan
   email: "divyam.madaan@nyu.edu"
-  facebook: divyam.madaan.1  # eg. daattali
-  github: divyam3897    # eg. daattali
-  twitter: divyam3897   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: divyam-madaan  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  github: divyam3897
+  twitter: divyam3897
+  linkedin: divyam-madaan
+  scholar: "https://scholar.google.com/citations?user=DNk4dZkAAAAJ&hl=en"
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
-  email: false
+  facebook: false
+  email: true
   twitter: true
   google-plus: false
   github: true
@@ -90,7 +81,7 @@ share-links-active:
 #disqus: ""
 
  #Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-88654744-2
+google_analytics: G-XHW1PCD98D
 
 # Facebook App ID
 # fb_app_id: ""
