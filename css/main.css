@@ -1045,7 +1045,7 @@ td.gutter {
    ================================================ */
 
 .pub-entry {
-  padding: 24px;
+  padding: 18px 20px;
   margin-bottom: 20px;
   border-left: 3px solid #2563eb;
   background: #f8fafc;
@@ -1063,7 +1063,7 @@ td.gutter {
 }
 
 .pub-title a {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: #0f172a;
   text-decoration: none;
@@ -1104,6 +1104,7 @@ td.gutter {
   margin-bottom: 4px;
   vertical-align: middle;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 /* Publication Filter Buttons */

@@ -241,13 +241,13 @@ var main = {
 window.filterPubs = function (type) {
   // Update buttons
   $('.pub-filter-btn').removeClass('active');
-  if (type === 'all') {
+  if (type === 'selected') {
     $('.pub-filter-btn:first-child').addClass('active');
-    $('.pub-entry').show();
-  } else {
-    $('.pub-filter-btn:last-child').addClass('active');
     $('.pub-entry').hide();
     $('.pub-entry[data-selected="true"]').show();
+  } else {
+    $('.pub-filter-btn:last-child').addClass('active');
+    $('.pub-entry').show();
   }
 };
 

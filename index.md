@@ -100,11 +100,29 @@ window.toggleBibtex = function(id) {
 
 <h3 class="section-heading">Publications</h3>
 <div id="pub-filter-container">
-  <button class="pub-filter-btn active" onclick="filterPubs('all')">All Publications</button>
-  <button class="pub-filter-btn" onclick="filterPubs('selected')">Selected Publications</button>
+  <button class="pub-filter-btn active" onclick="filterPubs('selected')">Selected Publications</button>
+  <button class="pub-filter-btn" onclick="filterPubs('all')">All Publications</button>
 </div>
 
-<p class="scholar-note">Full list on <a href="https://scholar.google.com/citations?user=DNk4dZkAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+
+
+<div class="pub-entry" data-selected="true">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2602.16979" target="_blank">Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling</a></div>
+  <div class="pub-authors"><strong>Divyam Madaan</strong>, Sumit Chopra, Kyunghyun Cho</div>
+  <div class="pub-venue">Preprint 2026 <span class="badge-preprint">Preprint</span></div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/pdf/2602.16979" target="_blank" rel="noopener">PDF</a>
+    <a href="javascript:void(0)" onclick="toggleBibtex('bib-primo')">BibTeX</a>
+  </div>
+  <div id="bib-primo" style="display:none; margin-top:10px; background:#f1f5f9; padding:10px; border-radius:4px; font-size:12px; overflow-x:auto;">
+<pre>@article{madaan2026characterizing,
+  title={Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling},
+  author={Madaan, Divyam and Chopra, Sumit and Cho, Kyunghyun},
+  journal={arXiv preprint arXiv:2602.16979},
+  year={2026}
+}</pre>
+  </div>
+</div>
 
 <div class="pub-entry" data-selected="true">
   <div class="pub-title"><a href="https://www.arxiv.org/pdf/2509.23487" target="_blank">Temporal Generalization: A Reality Check</a></div>
